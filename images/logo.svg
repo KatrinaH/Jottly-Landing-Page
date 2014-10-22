@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="67px" viewBox="0 0 120 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>jottlyLogo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop" sketch:type="MSArtboardGroup" transform="translate(-53.000000, -37.000000)">
+            <g id="jottlyLogo" sketch:type="MSLayerGroup" transform="translate(57.000000, 39.000000)">
+                <path d="M80.8443418,7.47802744 L89.2508083,9.30701929 L81.2711316,47.2773911 L75.2831409,54.8063233 L72.8646651,45.4483993 L80.8443418,7.47802744 Z" id="Shape" stroke="#FFFFFF" stroke-width="2" sketch:type="MSShapeGroup"></path>
+                <path d="M81.7260565,3.77072977 L82.1787124,1.72877312 C82.1787124,1.64108173 82.6313682,0.0375820243 85.1145091,0.0375820243 C85.567165,0.0375820243 86.2138163,0.125273414 86.7699364,0.212964804 C90.7145091,1.10240604 90.3394514,3.23205409 90.3394514,3.31974548 L89.8867955,5.53708491 L81.7260565,3.77072977 L81.7260565,3.77072977 Z" id="Shape" stroke="#FFFFFF" stroke-width="2.2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <path d="M73.0327945,45.8367469 L75.2702079,43.9075363 L77.0549654,47.3650825 L79.8355658,45.1226884 L80.7926097,47.8411215 L82.1247113,41.4897594 L74.2743649,39.3976934 L73.0327945,45.8367469 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <path d="M74.5459584,51.749652 L76.848037,52.263273 L75.2831409,54.8063233 L74.5459584,51.749652 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <path d="M81.3078261,44.4017737 L73.1750577,42.6062756 L80.7884437,7.47802744 L88.9212121,9.35902543 L81.3078261,44.4017737 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <text id="jot" fill="#FFFFFF" sketch:type="MSTextLayer" font-family="Helvetica" font-size="47.9315891" font-style="italic" font-weight="normal">
+                    <tspan x="0.0457441109" y="53.6507218">jot</tspan>
+                </text>
+                <text id="t" fill="#FFFFFF" sketch:type="MSTextLayer" font-family="Helvetica" font-size="47.9315891" font-style="italic" font-weight="normal">
+                    <tspan x="53.6369681" y="53.6507218">t</tspan>
+                </text>
+                <text id="y" fill="#FFFFFF" sketch:type="MSTextLayer" font-family="Helvetica" font-size="47.9315891" font-style="italic" font-weight="normal">
+                    <tspan x="86.8429247" y="53.6507218">y</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
