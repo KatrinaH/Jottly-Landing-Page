@@ -73,9 +73,10 @@ h1 {
 	font-size: 22px;
 	font-weight: 400;
 	line-height: 27px;
-	margin-bottom: 43px;
+	margin-bottom: 40px;
 	text-align: center;
 	width: 600px;
+	padding: 0 10px 0 195px;
 }
 
 .signUpNow, .signUpNow:hover {
@@ -106,9 +107,8 @@ h2 {
 }
 
 .about p {
-	line-height: 27px;
-	max-width: 65%;
-	margin-left: 17%;
+	line-height: 26px;
+	padding: 0 100px 0 134px;
 }
 
 .about h3 {
@@ -145,6 +145,10 @@ hr {
 .features svg {
 	width: 125px;
 	height: 125px;
+}
+
+.features p {
+	line-height: 23px;
 }
 
 .testimonial svg {
@@ -228,6 +232,14 @@ footer {
 		padding-left: 550px;
 	}
 
+	.cta p {
+		padding: 0 0 0 155px;
+		margin-bottom: 25px;
+	}
+
+	.about p {
+		padding: 0 75px 0 100px;
+	}
 }
 
  @media only screen and (max-width: 767px) {
@@ -245,13 +257,16 @@ footer {
  	}
 
  	.cta p {
- 		padding-left: 0px;
+ 		padding: 0 0 30px 0;
  		width: 100%;
  	}
 
  	.about p {
- 		max-width: 100%;
- 		margin-left: 0%;
+ 		padding: 0 0 20px 0;
+ 	}
+
+ 	.quote {
+ 		margin-top: 25px;
  	}
 
  	h2 {
